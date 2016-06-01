@@ -1,3 +1,7 @@
+
+##Resources 
+https://github.com/billybobjoeaglt/Java-Projects
+
 ## Getting Started
 
 ### Basic concepts
